@@ -1,7 +1,6 @@
-function gogogo(); {
+function gogogo() {
     alert("Yay, it works!");
 }
-
 /*
  Original code 
  function gogogo(); {
